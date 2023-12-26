@@ -1,16 +1,16 @@
-# Changelog
-All notable changes to this project will be documented in this file.
+# Jurnal Ubah
+Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 
-English
+<a href="https://github.com/KevinTaswin17/TaswinGang/blob/main/README.md">Bahasa Inggris (English)</a>
 &nbsp;|&nbsp;
-<a href="https://github.com/KevinTaswin17/TaswinGang/blob/main/CHANGELOG-id.md">Indonesian</a>
+Bahasa Indonesia
 
-## [2.0.4] - 12/26/2023
+## [2.0.4] - 26/12/2023
 > [!NOTE]
-> This modpack was made during Lethal Company v45.2 (Build 12922815). Verified and tested, runs well and as intended.
+> Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815). Terverfikasi dan teruji berjalan baik dan sebagaimana-mestinya.
 
-### Added
-|Mods Name|Version|Source|
+### Ditambahkan
+|Nama Mod|Versi|Sumber|
 |-|:-:|:-:|
 |Adesi-AnnyPlushieScrap|1.0.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Adesi/AnnyPlushieScrap)|
 |agalacticguy-ToasterMod|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/agalacticguy/ToasterMod)|
@@ -43,8 +43,8 @@ English
 |ViViKo-NoSellLimit|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/NoSellLimit)|
 |x753-Mimics|2.3.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/x753/Mimics)|
 
-### Updated
-|Mods Name|Previous Version|Current Version|Source|
+### Diperbarui
+|Nama Mod|Versi Sebelumnya|Versi Saat Ini|Sumber|
 |-|:-:|:-:|:-:|
 |2018-LC_API|2.2.0|3.1.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/2018/LC_API)|
 |anormaltwig-LateCompany|1.0.6|1.0.7|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany)|
@@ -63,12 +63,12 @@ English
 |ViViKo-MoreMaterials|1.1.0|1.3.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/MoreMaterials)|
 |ViViKo-ViViKoCosmetics|1.4.2|1.5.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/ViViKoCosmetics)|
 
-## [2.0.3] - 12/16/2023
+## [2.0.3] - 16/12/2023
 > [!NOTE]
-> This modpack was made during Lethal Company v45.2 (Build 12922815). Multiplayer has been tested and works well as intended with no crashes once.
+> Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815). Multipemain telah diuji dan berfungsi dengan baik sebagaimana mestinya tanpa crash maupun error sekalipun.
 
-### Added
-|Mods Name|Version|Source|
+### Ditambahkan
+|Nama Mod|Versi|Sumber|
 |-|:-:|:-:|
 |armablign-MaidOutfit|1.0.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/armablign/MaidOutfit)|
 |A_Really_Big_Dog-Yakuza_Suits|1.1.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/A_Really_Big_Dog/Yakuza_Suits)|
@@ -95,8 +95,8 @@ English
 |Blorb-WeatherMultipliers|1.0.0|1.1.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers)|
 |FlipMods-ReservedWalkieSlot|1.4.6|1.5.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot)|
 
-### Updated
-|Mods Name|Previous Version|Current Version|Source|
+### Diperbarui
+|Nama Mod|Versi Sebelumnya|Versi Saat Ini|Sumber|
 |-|:-:|:-:|:-:|
 |Evaisa-LethalLib|0.6.2|0.6.3|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib)|
 |FlipMods-HotbarPlus|1.3.2|1.3.3|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus)|
@@ -104,21 +104,21 @@ English
 |Ryokune-CompatibilityChecker|1.0.6|1.1.4|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker)|
 |x753-More_Suits|1.4.0|1.4.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/x753/More_Suits)|
 
-## [2.0.2] - 12/15/2023
+## [2.0.2] - 15/12/2023
 > [!NOTE]
-> This modpack was made during Lethal Company v45.2 (Build 12922815).
+> Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815).
 
-### Added mods
-|Mods Name|Version|Source|
+### Mod yang ditambahkan
+|Nama Mod|Versi|Sumber|
 |-|:-:|:-:|
 |tinyhoot-ShipLoot|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot)|
 
-## [2.0.1] - 12/14/2023
+## [2.0.1] - 14/12/2023
 > [!NOTE]
-> This modpack was made during Lethal Company v45.2 (Build 12922815).
+> Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815).
 
-### Added mods
-|Mods Name|Version|Source|
+### Mod yang ditambahkan
+|Nama Mod|Versi|Sumber|
 |-|:-:|:-:|
 |Evaisa-HookGenPatcher|0.0.5|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher)|
 |Evaisa-LethalLib|0.6.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib)|
@@ -131,17 +131,17 @@ English
 |Vibrant-BadGojoSuit|1.0.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Vibrant/BadGojoSuit)|
 |x753-More_Suits|1.4.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/x753/More_Suits)|
 
-### Updated mods
-|Mods Name|Previous Version|Current Version|Source|
+### Mod yang diperbarui
+|Nama Mod|Versi Sebelumnya|Versi Saat Ini|Sumber|
 |-|:-:|:-:|:-:|
 |2018-LC_API|2.1.2|2.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/2018/LC_API)|
 |Sligili-More_Emotes|1.1.3|1.2.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes)|
 
-## [2.0.0] - 12/13/2023
+## [2.0.0] - 13/12/2023
 > [!IMPORTANT]
-> There's a big chance this modpack will no longer compatible with Lethal Company v40.
+> Besar kemungkinan paket mod versi ini tidak lagi kompatibel pada Lethal Company v40.
 
-### Mods updated during Lethal Company v45
+### Mod yang diperbarui saat Lethal Company v45
 |Nama Mod|Versi Sebelumnya|Versi Saat Ini|Sumber|
 |-|:-:|:-:|:-:|
 |2018-LC_API|2.0.0|2.1.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/2018/LC_API)|
@@ -159,19 +159,19 @@ English
 |Renegades-FlashlightToggle|1.3.1|1.4.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle)|
 |Sligili-More_Emotes|1.0.0|1.1.3|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes)|
 |stormytuna-KindTeleporters|1.0.1|1.0.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/stormytuna/KindTeleporters)|
-> **Sligili-F_ckYouMOD** now changed to **Sligili-More_Emotes**.
+> **Sligili-F_ckYouMOD** kini berubah menjadi **Sligili-More_Emotes**.
 
-### Mods that got added back
-|Mods Name|Previous Version|Current Version|Source|
+### Mod yang ditambahkan kembali
+|Nama Mod|Versi Sebelumnya|Versi Saat Ini|Sumber|
 |-|:-:|:-:|:-:|
 |oknorton-LethalCompanyBetterScaling|1.3.2|1.4.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/oknorton/LethalCompanyBetterScaling)|
 
-### Mod that got replaced
+### Mod yang digantikan
 |Nama Mod|Versi|Sumber||Nama Mod|Versi|Sumber|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |Exoni-LethalRebinding*|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding)|→|Bobbie-LethalRebinding|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)|
 
-### Mod that got changed from its default configuration in folder `BepInEx\config`
+### Mod yang diubah konfigurasinya dalam folder `BepInEx\config`
 - `twig.latecompany.cfg`
 
   ```bash
@@ -183,12 +183,12 @@ English
   Colors enabled = true
   ```
 
-## [1.0.3] - 11/30/2023
+## [1.0.3] - 30/11/2023
 > [!CAUTION]
-> This modpack only intended for Lethal Company v40. Some will no longer work in the latest version.
+> Paket mod ini hanya diperuntukan untuk Lethal Company v40. Sebagian tidak lagi berfungsi pada versi terbaru.
 
-### Added mods
-|Mods Name|Version|Source|
+### Mod yang ditambahkan
+|Nama Mod|Versi|Sumber|
 |-|:-:|:-:|
 |2018-LC_API|2.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/2018/LC_API)|
 |5Bit-FPSSpectate|1.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate)|
@@ -218,24 +218,24 @@ English
 |VZP_Mods-BetterLethality|1.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/VZP_Mods/BetterLethality)|
 |Zduniusz-24HourClock|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Zduniusz/24HourClock)|
 |Zduniusz-LBtoKG|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Zduniusz/LBtoKG)|
-> **Mom_Llama-Lethal_Company_Enhancer** unintentionally not installed.
+> **Mom_Llama-Lethal_Company_Enhancer** tanpa disengaja tidak terinstal.
 
-### Mods that causes crash during joining multiplayer session
-|Mods Name|Version|Source|
+### Mod yang menyebabkan crash saat mencoba bergabung sesi multipemain
+|Nama Mod|Versi|Sumber|
 |-|:-:|:-:|
 |Exoni-LethalRebinding*|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding)|
 |oknorton-LethalCompanyBetterScaling|1.3.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/oknorton/LethalCompanyBetterScaling)|
 
-### Mod that not so desirable
-|Mods Name|Version|Source|
+### Mod yang kurang diminati
+|Nama Mod|Versi|Sumber|
 |-|:-:|:-:|
 |MonAmiral-PlayerDogModel|0.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/MonAmiral/PlayerDogModel)|
 
-## [1.0.2] - 11/30/2023
-Third attempt making modpack.
+## [1.0.2] - 30/11/2023
+Percobaan ketiga pembuatan paket mod.
 
-## [1.0.1] - 11/30/2023
-Second attempt making modpack.
+## [1.0.1] - 30/11/2023
+Percobaan kedua pembuatan paket mod.
 
-## [1.0.0] - 11/30/2023
-First attempt making modpack.
+## [1.0.0] - 30/11/2023
+Percobaan pertama pembuatan paket mod.

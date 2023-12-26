@@ -1,6 +1,42 @@
 # Jurnal Ubah
 Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 
+## [2.0.4] - 26/12/2023
+> [!NOTE]
+> Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815). Multipemain telah diuji dan berfungsi dengan baik sebagaimana mestinya tanpa crash maupun error sekalipun.
+
+### Ditambahkan
+- [OrtonLongGaming-FreddyBracken](https://thunderstore.io/c/lethal-company/p/OrtonLongGaming/FreddyBracken/) `1.0.6`
+- [Sligili-HDLethalCompany](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/) `1.5.6`
+- [Sculas-BrutalCompanyAdditions](https://thunderstore.io/c/lethal-company/p/Sculas/BrutalCompanyAdditions/) `2.1.1`
+- [Nips-Brutal_Company_Plus](https://thunderstore.io/c/lethal-company/p/Nips/Brutal_Company_Plus/) `3.5.1`
+- [Hexnet111-SuitSaver](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver/) `1.1.2`
+- [JoshFoRs-Spectators](https://thunderstore.io/c/lethal-company/p/JoshFoRs/Spectators/) `1.2.0`
+- [deemodev-TerminalHistory](https://thunderstore.io/c/lethal-company/p/deemodev/TerminalHistory/) `1.0.0`
+- [Rune580-LethalCompany_InputUtils](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/) `0.4.3`
+- [NotAtomicBomb-TerminalApi](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/) `1.4.0`
+- [Dev1A3-SignalTranslatorDisplay](1.0.0) `1.0.0`
+- [Coltrain-RotateBackwards](https://thunderstore.io/c/lethal-company/p/Coltrain/RotateBackwards/) `1.0.0`
+- [Silvision-PaintColorSwitch](https://thunderstore.io/c/lethal-company/p/Silvision/PaintColorSwitch/) `1.0.0`
+- [Suskitech-AlwaysHearActiveWalkies](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/) `1.4.3`
+- [Fredolx-SignalTranslatorUpgrade](https://thunderstore.io/c/lethal-company/p/Fredolx/SignalTranslatorUpgrade/) `1.0.0`
+- [Electric131-IsThisTheWayICame](https://thunderstore.io/c/lethal-company/p/Electric131/IsThisTheWayICame/) `1.0.0`
+- [x753-Mimics](https://thunderstore.io/c/lethal-company/p/x753/Mimics/) `2.3.0`
+- [agalacticguy-ToasterMod](https://thunderstore.io/c/lethal-company/p/agalacticguy/ToasterMod/) `1.0.0`
+- [Pitzuna-Pitzunas_Scrap](https://thunderstore.io/c/lethal-company/p/Pitzuna/Pitzunas_Scrap/) `1.0.2`
+- [ViViKo-NoSellLimit](https://thunderstore.io/c/lethal-company/p/ViViKo/NoSellLimit/) `1.0.0`
+- [egg_node-EggChat](https://thunderstore.io/c/lethal-company/p/egg_node/EggChat/) `0.1.0`
+- [doctorek7-TczewMod](https://thunderstore.io/c/lethal-company/p/doctorek7/TczewMod/) `1.1.0`
+- [HolographicWings-LethalExpansion](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) `1.3.5`
+- [Chdata-DataCompany](https://thunderstore.io/c/lethal-company/p/Chdata/DataCompany/) `1.0.0`
+- [FlipMods-TooManyEmotes](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/) `1.5.6`
+- [Konahaipper-AllColorSuits](https://thunderstore.io/c/lethal-company/p/Konahaipper/AllColorSuits/) `1.0.3`
+- [akechii-DiscountAlert](https://thunderstore.io/c/lethal-company/p/akechii/DiscountAlert/) `2.0.0`
+- [frostfv-Frostys_Fastest_Company](https://thunderstore.io/c/lethal-company/p/frostfv/Frostys_Fastest_Company/) `1.2.1`
+- [alexanderjoe-LC_Symphony](https://thunderstore.io/c/lethal-company/p/alexanderjoe/LC_Symphony/) `1.2.0`
+- [smileyhead-MoreSuitsSmileyhead](https://thunderstore.io/c/lethal-company/p/smileyhead/MoreSuitsSmileyhead/) `1.3.2`
+- [Adesi-AnnyPlushieScrap](https://thunderstore.io/c/lethal-company/p/Adesi/AnnyPlushieScrap/) `1.0.2`
+
 ## [2.0.3] - 16/12/2023
 > [!NOTE]
 > Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815). Multipemain telah diuji dan berfungsi dengan baik sebagaimana mestinya tanpa crash maupun error sekalipun.

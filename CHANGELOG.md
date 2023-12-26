@@ -7,7 +7,7 @@ English
 
 ## [2.0.4] - 12/26/2023
 > [!NOTE]
-> This modpack was made during Lethal Company v45.2 (Build 12922815). Verified and tested, runs well and as intended.
+> This modpack was made during Lethal Company v45.2 (Build 12922815). Verified and tested, runs well as intended.
 
 ### Added
 |Mods Name|Version|Source|

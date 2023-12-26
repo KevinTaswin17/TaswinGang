@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This file will be deprecated soon.
+
 # Jurnal Ubah
 Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 

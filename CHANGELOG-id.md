@@ -3,7 +3,7 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 
 ## [2.0.4] - 26/12/2023
 > [!NOTE]
-> Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815). Multipemain telah diuji dan berfungsi dengan baik sebagaimana mestinya tanpa crash maupun error sekalipun.
+> Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815). Terverfikasi dan teruji berjalan baik dan sebagaimana-mestinya.
 
 ### Ditambahkan
 |Nama Mod|Versi|Sumber|
@@ -39,6 +39,26 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 |ViViKo-NoSellLimit|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/NoSellLimit)|
 |x753-Mimics|2.3.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/x753/Mimics)|
 
+### Diperbarui
+|Nama Mod|Versi Sebelumnya|Versi Saat Ini|Sumber|
+|-|:-:|:-:|:-:|
+|2018-LC_API|2.2.0|3.1.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/2018/LC_API)|
+|anormaltwig-LateCompany|1.0.6|1.0.7|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany)|
+|Dielji-StreamerSuits|1.1.1|1.1.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Dielji/StreamerSuits)|
+|Evaisa-LethalLib|0.6.3|0.8.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib)|
+|FlipMods-HotbarPlus|1.3.3|1.3.5|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus)|
+|FlipMods-ReservedFlashlightSlot|1.4.5|1.5.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot)|
+|FlipMods-ReservedItemSlotCore|1.4.4|1.6.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore)|
+|malco-Lategame_Upgrades|2.6.1|2.8.3|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades)|
+|Mom_Llama-Lethal_Company_Enhancer|0.1.8|0.1.10|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Mom_Llama/Lethal_Company_Enhancer)|
+|quackandcheese-MirrorDecor|1.1.5|1.1.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor)|
+|Renegades-FlashlightToggle|1.4.1|1.5.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle)|
+|Ryokune-CompatibilityChecker|1.1.4|1.1.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker)|
+|Sligili-More_Emotes|1.2.1|1.2.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes)|
+|stormytuna-KindTeleporters|1.0.2|1.0.3|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/stormytuna/KindTeleporters)|
+|ViViKo-MoreMaterials|1.1.0|1.3.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/MoreMaterials)|
+|ViViKo-ViViKoCosmetics|1.4.2|1.5.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/ViViKoCosmetics)|
+
 ## [2.0.3] - 16/12/2023
 > [!NOTE]
 > Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815). Multipemain telah diuji dan berfungsi dengan baik sebagaimana mestinya tanpa crash maupun error sekalipun.
@@ -68,6 +88,8 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 |ViViKo-MoreMaterials|1.1.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/MoreMaterials)|
 |ViViKo-ViViKoCosmetics|1.4.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/ViViKoCosmetics)|
 |YELLOWGLASS-Yellowglass_Vibrant_Suits|1.4.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/YELLOWGLASS/Yellowglass_Vibrant_Suits)|
+|Blorb-WeatherMultipliers|1.0.0|1.1.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers)|
+|FlipMods-ReservedWalkieSlot|1.4.6|1.5.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot)|
 
 ### Diperbarui
 |Nama Mod|Versi Sebelumnya|Versi Saat Ini|Sumber|

@@ -1,6 +1,10 @@
 # Jurnal Ubah
 Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 
+<a href="https://github.com/KevinTaswin17/TaswinGang/blob/main/README.md">Bahasa Inggris (English)</a>
+&nbsp;|&nbsp;
+Bahasa Indonesia
+
 ## [2.0.4] - 26/12/2023
 > [!NOTE]
 > Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815). Terverfikasi dan teruji berjalan baik dan sebagaimana-mestinya.

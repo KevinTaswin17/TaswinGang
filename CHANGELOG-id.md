@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+English
+&nbsp;|&nbsp;
+<a href="https://github.com/KevinTaswin17/TaswinGang/blob/main/CHANGELOG-id.md">Indonesian</a>
+
 ## [2.0.4] - 12/26/2023
 > [!NOTE]
 > This modpack was made during Lethal Company v45.2 (Build 12922815). Verified and tested, runs well and as intended.

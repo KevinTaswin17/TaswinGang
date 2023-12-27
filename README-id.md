@@ -1,7 +1,7 @@
 <h1 align="center"><a alt="Ikon TaswinGang"><img src="https://github.com/KevinTaswin17/TaswinGang/blob/main/icon.png" width="172"></a><br>TaswinGang<br></h1>
 <div align="center">
 
-Sebuah paket mod untuk Lethal Company. Terdapat 66 mod terpopuler. Bergantung pada pemuat mod [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest).
+Sebuah paket mod untuk Lethal Company. Terdapat 96 mod terpopuler. Bergantung pada pemuat mod [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest).
 
 <a href="https://github.com/KevinTaswin17/TaswinGang/blob/main/README.md">Bahasa Inggris (English)</a>
 &nbsp;|&nbsp;

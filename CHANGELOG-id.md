@@ -47,11 +47,13 @@ Bahasa Indonesia
 |Nama Mod|Versi Sebelumnya|Versi Saat Ini|Sumber|
 |-|:-:|:-:|:-:|
 |anormaltwig-LateCompany|1.0.6|1.0.7|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany)|
+|Blorb-WeatherMultipliers|1.0.0|1.1.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers)|
 |Dielji-StreamerSuits|1.1.1|1.1.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Dielji/StreamerSuits)|
 |Evaisa-LethalLib|0.6.3|0.8.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib)|
 |FlipMods-HotbarPlus|1.3.3|1.3.5|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus)|
 |FlipMods-ReservedFlashlightSlot|1.4.5|1.5.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot)|
 |FlipMods-ReservedItemSlotCore|1.4.4|1.6.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore)|
+|FlipMods-ReservedWalkieSlot|1.4.6|1.5.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot)|
 |malco-Lategame_Upgrades|2.6.1|2.8.3|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades)|
 |Mom_Llama-Lethal_Company_Enhancer|0.1.8|0.1.10|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Mom_Llama/Lethal_Company_Enhancer)|
 |quackandcheese-MirrorDecor|1.1.5|1.1.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor)|
@@ -152,8 +154,6 @@ Bahasa Indonesia
 |ViViKo-MoreMaterials|1.1.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/MoreMaterials)|
 |ViViKo-ViViKoCosmetics|1.4.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/ViViKoCosmetics)|
 |YELLOWGLASS-Yellowglass_Vibrant_Suits|1.4.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/YELLOWGLASS/Yellowglass_Vibrant_Suits)|
-|Blorb-WeatherMultipliers|1.0.0|1.1.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers)|
-|FlipMods-ReservedWalkieSlot|1.4.6|1.5.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot)|
 
 ### Diperbarui
 |Nama Mod|Versi Sebelumnya|Versi Saat Ini|Sumber|

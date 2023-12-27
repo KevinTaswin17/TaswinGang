@@ -126,7 +126,7 @@ Bahasa Indonesia
 > [!CAUTION]
 > Ada beberapa catatan penting untuk paket mod versi ini:
 > * **LC API** `2.2.0` adalah versi terbaru yang kompatibel dengan semua mod yang ada pada paket mod ini dan tidak dapat lagi diperbarui. Ini adalah konsekuensi jika memperbarui ke versi setelahnya: Lobi akan rusak dan hanya menampilkan kekosongan di udara tanpa cara mengendalikan pemain sesaat membuat ruangan.
-> * Jika proses pemuatan mod terhenti saat bergabung sesi multipemain, tampil layar putih selama beberapa detik dan crash pada akhirnya, ini berarti perangkat tidak kompatibel dengan mod `HDLethalCompany`. Pergi ke direktori tersebut: `Lethal Company\BepInEx\plugins`, kemudian hapuslah folder `HDLethalCompany` juga berkas `HDLethalCompany.dll` untuk memperbaiki.
+> * Jika proses pemuatan mod terhenti saat bergabung sesi multipemain, tampil layar putih selama beberapa detik dan crash pada akhirnya, ini berarti perangkat tidak kompatibel dengan mod `HDLethalCompany`. Untuk memperbaiki, pergi ke direktori: `Lethal Company\BepInEx\plugins`, kemudian hapuslah folder `HDLethalCompany` dan berkas `HDLethalCompany.dll`.
 
 ## [2.0.3] - 16/12/2023
 > [!NOTE]

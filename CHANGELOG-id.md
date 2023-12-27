@@ -188,6 +188,9 @@ Bahasa Indonesia
 |Verity-TooManySuits|1.0.4|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Verity/TooManySuits)|
 |Vibrant-BadGojoSuit|1.0.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Vibrant/BadGojoSuit)|
 |x753-More_Suits|1.4.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/x753/More_Suits)|
+> [!CAUTION]
+>Dikarenakan jumlah mod yang banyak pada paket mod ini, **LC API** `2.2.0` adalah versi terbaru yang didukung dan tidak dapat lagi diperbarui. Berikut adalah konsekuensi jika memperbarui ke versi setelahnya:
+>* Lobi akan rusak dan hanya menampilkan kekosongan di udara tanpa cara mengendalikan pemain sesaat membuat ruangan.
 
 ### Mod yang diperbarui
 |Nama Mod|Versi Sebelumnya|Versi Saat Ini|Sumber|

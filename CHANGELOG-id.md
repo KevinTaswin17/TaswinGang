@@ -5,9 +5,9 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 &nbsp;|&nbsp;
 Bahasa Indonesia
 
-## [2.0.4] - 26/12/2023
+## [2.0.4] - 27/12/2023
 > [!NOTE]
-> Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815). Terverfikasi dan teruji berjalan baik dan sebagaimana-mestinya.
+> Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815). Terverfikasi dan teruji berjalan baik dan sebagaimana-mestinya dalam sesi multipemain.
 
 ### Ditambahkan
 |Nama Mod|Versi|Sumber|
@@ -62,6 +62,64 @@ Bahasa Indonesia
 |stormytuna-KindTeleporters|1.0.2|1.0.3|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/stormytuna/KindTeleporters)|
 |ViViKo-MoreMaterials|1.1.0|1.3.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/MoreMaterials)|
 |ViViKo-ViViKoCosmetics|1.4.2|1.5.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/ViViKoCosmetics)|
+
+### Mod yang diubah konfigurasinya dalam folder `BepInEx\config`
+- `com.bepis.bepinex.configurationmanager.cfg`
+
+  ```bash
+  Show advanced = true
+  Show config manager = F11 
+  ```
+- `FlipMods.HotbarPlus.cfg`
+
+  ```bash
+  HotbarSize = 8
+  ```
+- `HDLethalCompany.cfg`
+
+  ```bash
+  EnableAA = false
+  EnablePP = false
+  TextureQuality = 0
+  FogQuality = 0
+  EnableFOG = false
+  LOD = 0
+  ShadowQuality = 0
+  Value = 1
+  ```
+- `keelhauled.graphicssettings.cfg`
+
+  ```bash
+  VSync = Disabled
+  Framerate limit = -1
+  Anti-aliasing multiplier = Disabled
+  Anisotropic filtering = Disable
+  ```
+- `mom.llama.enhancer.cfg`
+
+  ```bash
+  iQuotaDays = 5
+  eThreatScannerType = 3
+  eScrapProtection = SAVE_ALL
+  ```
+- `MoreEmotes.cfg`
+
+  ```bash
+  EmoteKey = F4
+  EmoteKey = F3
+  EmoteKey = F5
+  EmoteKey = F6
+  ```
+- `Rozebud.FovAdjust.cfg`
+
+  ```bash
+  fov = 67
+  ```
+- `yvex.boomboxVolumeAdjuster.cfg`
+
+  ```bash
+  Dont Update After Start = true
+  ```
 
 ## [2.0.3] - 16/12/2023
 > [!NOTE]

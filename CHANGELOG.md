@@ -46,7 +46,6 @@ English
 ### Updated
 |Mods Name|Previous Version|Current Version|Source|
 |-|:-:|:-:|:-:|
-|2018-LC_API|2.2.0|3.1.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/2018/LC_API)|
 |anormaltwig-LateCompany|1.0.6|1.0.7|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany)|
 |Dielji-StreamerSuits|1.1.1|1.1.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Dielji/StreamerSuits)|
 |Evaisa-LethalLib|0.6.3|0.8.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib)|

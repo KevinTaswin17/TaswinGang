@@ -73,7 +73,7 @@ English
 |Lethal Company Enhancer|Mom_Llama|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Mom_Llama/Lethal_Company_Enhancer)|
 |LethalCompanyBetterScaling|oknorton|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/oknorton/LethalCompanyBetterScaling)|
 |LethalCompany_InputUtils|Rune580|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils)|
-|LethalExpansion|HolographicWings[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion)|
+|LethalExpansion|HolographicWings|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion)|
 |LethalFashion|BatTeam|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion)|
 |LethalLib|Evaisa|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib)|
 |LethalPaintings|femboytv|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPaintings)|

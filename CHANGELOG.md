@@ -226,7 +226,7 @@ English
 |Exoni-LethalRebinding*|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding)|
 |oknorton-LethalCompanyBetterScaling|1.3.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/oknorton/LethalCompanyBetterScaling)|
 
-### Mod that not so desirable
+### Mod that not desirable
 |Mods Name|Version|Source|
 |-|:-:|:-:|
 |MonAmiral-PlayerDogModel|0.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/MonAmiral/PlayerDogModel)|

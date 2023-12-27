@@ -63,9 +63,6 @@ English
 |stormytuna-KindTeleporters|1.0.2|1.0.3|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/stormytuna/KindTeleporters)|
 |ViViKo-MoreMaterials|1.1.0|1.3.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/MoreMaterials)|
 |ViViKo-ViViKoCosmetics|1.4.2|1.5.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/ViViKoCosmetics)|
-> [!CAUTION]
-> **LC API** `2.2.0` is the latest supported version compatible with all of the mods included in this modpack and can no longer be updated. Here are the consequences of updating to the later version:
->* Lobby breaks with just an empty void showing with no way of controlling the player upon hosting a room.
 
 ### Mod that got changed from its default configuration in folder `BepInEx\config`
 - `com.bepis.bepinex.configurationmanager.cfg`
@@ -124,6 +121,12 @@ English
   ```bash
   Dont Update After Start = true
   ```
+
+### Notes
+> [!CAUTION]
+> There are some important notes for this version of the modpack:
+> * **LC API** `2.2.0` is the latest supported version compatible with all of the mods included in this modpack and can no longer be updated. Here are the consequences of updating to the later version: Lobby breaks with just an empty void showing with no way of controlling the player upon hosting a room.
+> * If loading process stops during a session join, shows white screen for a couple seconds and crashes no long after, this means the device isn't compatible with the `HDLethalCompany` mod. Go into this directory: `Lethal Company\BepInEx\plugins`, then delete `HDLethalCompany` folder and `HDLethalCompany.dll` file for a fix.
 
 ## [2.0.3] - 12/16/2023
 > [!NOTE]

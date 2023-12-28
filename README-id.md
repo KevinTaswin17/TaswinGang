@@ -7,7 +7,7 @@ Sebuah paket mod untuk Lethal Company. Terdapat 96 mod terpopuler. Bergantung pa
 &nbsp;|&nbsp;
 Bahasa Indonesia
 
-[![GitHub Unduh](https://img.shields.io/github/v/release/KevinTaswin17/TaswinGang?color=3A7BE6&label=Terkini&logo=github)](https://github.com/KevinTaswin17/TaswinGang/releases/latest)
+[![GitHub Unduh](https://img.shields.io/github/v/release/KevinTaswin17/TaswinGang?color=3A7BE6&label=Stabil&logo=github)](https://github.com/KevinTaswin17/TaswinGang/releases/latest)
 [![Jurnal Ubah](https://img.shields.io/badge/Jurnal_Ubah-Lihat-0B839D?logo=keepachangelog)](https://github.com/KevinTaswin17/TaswinGang/blob/stable/CHANGELOG-id.md)
 [![GitHub Total Unduhan](https://img.shields.io/github/downloads/KevinTaswin17/TaswinGang/total?label=Diunduh&logo=github)](https://github.com/KevinTaswin17/TaswinGang/releases)
 [![GitHub Repo Favorit](https://img.shields.io/github/stars/KevinTaswin17/TaswinGang?logo=githubsponsors&color=informational&label=Difavorit)](https://github.com/KevinTaswin17/TaswinGang/stargazers)

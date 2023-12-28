@@ -7,7 +7,7 @@ English
 &nbsp;|&nbsp;
 <a href="https://github.com/KevinTaswin17/TaswinGang/blob/stable/README-id.md">Indonesian</a>
 
-[![GitHub Download](https://img.shields.io/github/v/release/KevinTaswin17/TaswinGang?color=3A7BE6&label=Latest&logo=github)](https://github.com/KevinTaswin17/TaswinGang/releases/latest)
+[![GitHub Download](https://img.shields.io/github/v/release/KevinTaswin17/TaswinGang?color=3A7BE6&label=Stable&logo=github)](https://github.com/KevinTaswin17/TaswinGang/releases/latest)
 [![Changelog](https://img.shields.io/badge/Changelog-See-0B839D?logo=keepachangelog)](https://github.com/KevinTaswin17/TaswinGang/blob/stable/CHANGELOG.md)
 [![GitHub Total Downloads](https://img.shields.io/github/downloads/KevinTaswin17/TaswinGang/total?label=Downloads&logo=github)](https://github.com/KevinTaswin17/TaswinGang/releases)
 [![GitHub Repo Favorites](https://img.shields.io/github/stars/KevinTaswin17/TaswinGang?logo=githubsponsors&color=informational&label=Stars)](https://github.com/KevinTaswin17/TaswinGang/stargazers)

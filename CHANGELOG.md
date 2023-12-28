@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file.
 
 English
 &nbsp;|&nbsp;
-<a href="https://github.com/KevinTaswin17/TaswinGang/blob/main/CHANGELOG-id.md">Indonesian</a>
+<a href="https://github.com/KevinTaswin17/TaswinGang/blob/stable/CHANGELOG-id.md">Indonesian</a>
 
 ## [2.0.4] - 12/27/2023
 > [!NOTE]

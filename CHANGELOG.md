@@ -71,7 +71,7 @@ English
 |ViViKo-MoreMaterials|1.1.0|1.3.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/MoreMaterials)|
 |ViViKo-ViViKoCosmetics|1.4.2|1.5.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/ViViKoCosmetics)|
 
-### Mod that got changed from its default configuration in folder `BepInEx\config`
+### Mod that got changed from its default configuration in the `BepInEx\config` folder
 - `com.bepis.bepinex.configurationmanager.cfg`
 
   ```bash

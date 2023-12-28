@@ -5,7 +5,7 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 &nbsp;|&nbsp;
 Bahasa Indonesia
 
-## [2.0.4] - 27/12/2023
+## [2.0.4] - 28/12/2023
 > [!NOTE]
 > Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815). Terverfikasi dan teruji berjalan baik dan sebagaimana-mestinya dalam sesi multipemain.
 
@@ -14,20 +14,20 @@ Bahasa Indonesia
 |-|:-:|:-:|
 |Adesi-AnnyPlushieScrap|1.0.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Adesi/AnnyPlushieScrap)|
 |agalacticguy-ToasterMod|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/agalacticguy/ToasterMod)|
-|akechii-DiscountAlert|2.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/akechii/DiscountAlert)|
+|akechii-DiscountAlert|2.1.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/akechii/DiscountAlert)|
 |alexanderjoe-LC_Symphony|1.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/alexanderjoe/LC_Symphony)|
-|Chdata-DataCompany|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Chdata/DataCompany)|
+|Chdata-DataCompany|1.0.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Chdata/DataCompany)|
 |Coltrain-RotateBackwards|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Coltrain/RotateBackwards)|
 |deemodev-TerminalHistory|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/deemodev/TerminalHistory)|
-|Dev1A3-SignalTranslatorDisplay|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Dev1A3/SignalTranslatorDisplay)|
+|Dev1A3-SignalTranslatorDisplay|1.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Dev1A3/SignalTranslatorDisplay)|
 |doctorek7-TczewMod|1.1.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/doctorek7/TczewMod)|
-|egg_node-EggChat|0.1.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/egg_node/EggChat)|
-|Electric131-IsThisTheWayICame|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Electric131/IsThisTheWayICame)|
-|FlipMods-TooManyEmotes|1.5.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes)|
+|egg_node-EggChat|0.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/egg_node/EggChat)|
+|Electric131-IsThisTheWayICame|1.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Electric131/IsThisTheWayICame)|
+|FlipMods-TooManyEmotes|1.5.8|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes)|
 |Fredolx-SignalTranslatorUpgrade|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Fredolx/SignalTranslatorUpgrade)|
 |frostfv-Frostys_Fastest_Company|1.2.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/frostfv/Frostys_Fastest_Company)|
 |Hexnet111-SuitSaver|1.1.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Hexnet111/SuitSaver)|
-|HolographicWings-LethalExpansion|1.3.5|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion)|
+|HolographicWings-LethalExpansion|1.3.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion)|
 |JoshFoRs-Spectators|1.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/JoshFoRs/Spectators)|
 |Konahaipper-AllColorSuits|1.0.3|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Konahaipper/AllColorSuits)|
 |Nips-Brutal_Company_Plus|3.5.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Nips/Brutal_Company_Plus)|
@@ -49,14 +49,14 @@ Bahasa Indonesia
 |anormaltwig-LateCompany|1.0.6|1.0.7|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany)|
 |Blorb-WeatherMultipliers|1.0.0|1.1.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Blorb/WeatherMultipliers)|
 |Dielji-StreamerSuits|1.1.1|1.1.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Dielji/StreamerSuits)|
-|Evaisa-LethalLib|0.6.3|0.8.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib)|
-|FlipMods-HotbarPlus|1.3.3|1.3.5|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus)|
+|Evaisa-LethalLib|0.6.3|0.9.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib)|
+|FlipMods-HotbarPlus|1.3.3|1.4.3|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus)|
 |FlipMods-ReservedFlashlightSlot|1.4.5|1.5.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot)|
-|FlipMods-ReservedItemSlotCore|1.4.4|1.6.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore)|
+|FlipMods-ReservedItemSlotCore|1.4.4|1.6.7|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore)|
 |FlipMods-ReservedWalkieSlot|1.4.6|1.5.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot)|
 |malco-Lategame_Upgrades|2.6.1|2.8.3|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades)|
 |Mom_Llama-Lethal_Company_Enhancer|0.1.8|0.1.10|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Mom_Llama/Lethal_Company_Enhancer)|
-|quackandcheese-MirrorDecor|1.1.5|1.1.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor)|
+|quackandcheese-MirrorDecor|1.1.5|1.2.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/quackandcheese/MirrorDecor)|
 |Renegades-FlashlightToggle|1.4.1|1.5.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle)|
 |Ryokune-CompatibilityChecker|1.1.4|1.1.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker)|
 |Sligili-More_Emotes|1.2.1|1.2.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes)|

@@ -1,7 +1,7 @@
 # Jurnal Ubah
 Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 
-<a href="https://github.com/KevinTaswin17/TaswinGang/blob/main/README.md">Bahasa Inggris (English)</a>
+<a href="https://github.com/KevinTaswin17/TaswinGang/blob/stable/README.md">Bahasa Inggris (English)</a>
 &nbsp;|&nbsp;
 Bahasa Indonesia
 

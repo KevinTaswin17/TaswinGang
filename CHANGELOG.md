@@ -49,6 +49,7 @@ English
 |Suskitech-AlwaysHearActiveWalkies|1.4.3|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies)|
 |ViViKo-NoSellLimit|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/ViViKo/NoSellLimit)|
 |x753-Mimics|2.3.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/x753/Mimics)|
+> 
 
 ### Updated
 |Mods Name|Previous Version|Current Version|Source|
@@ -130,10 +131,10 @@ English
   ```
 
 ### Notes
-> [!CAUTION]
-> There are some important notes for this version of the modpack:
-> * **LC API** `2.2.0` is the latest supported version compatible with all of the mods included in this modpack and can no longer be updated. Here are the consequences of updating to the later version: Lobby breaks with just an empty void showing with no way of controlling the player upon hosting a room.
-> * If loading process stops during a session join, shows white screen for a couple seconds and crashes no long after, this means the device isn't compatible with the `HDLethalCompany` mod. For a fix, go into this directory: `Lethal Company\BepInEx\plugins`, then delete `HDLethalCompany` folder and `HDLethalCompany.dll` file.
+There are some important notes for this version of the modpack:
+* **LC API** `2.2.0` is the latest supported version compatible with all of the mods included in this modpack and can no longer be updated. Here are the consequences of updating to the later version: Lobby breaks with just an empty void showing with no way of controlling the player upon hosting a room.
+* If loading process stops during a session join, shows white screen for a couple seconds and crashes no long after, this means the device isn't compatible with the `HDLethalCompany` mod. For a fix, go into this directory: `Lethal Company\BepInEx\plugins`, then delete `HDLethalCompany` folder and `HDLethalCompany.dll` file.
+* **Cobster-LightControls** `1.0.1` causes the ship door to be unusable thus can't be closed. A fix will be released as soon as they're available. For the time being, go into this directory: `Lethal Company\BepInEx\plugins`, then delete `UnityMobCracker.dll`.
 
 ## [2.0.3] - 12/16/2023
 > [!NOTE]

@@ -1,4 +1,4 @@
-<h1 align="center"><a alt="Ikon TaswinGang"><img src="https://github.com/KevinTaswin17/TaswinGang/blob/main/icon.png" width="172"></a><br>TaswinGang<br></h1>
+<h1 align="center"><a alt="Ikon TaswinGang"><img src="https://github.com/KevinTaswin17/TaswinGang/blob/stable/icon.png" width="172"></a><br>TaswinGang<br></h1>
 <div align="center">
 
 Sebuah paket mod untuk Lethal Company. Terdapat 96 mod terpopuler. Bergantung pada pemuat mod [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest).

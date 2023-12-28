@@ -24,7 +24,7 @@ English
 
 ## 💕 Credits
 ### Big Thanks For The Plugin & Mod Developers
-|Plugin/Mod Name|Creator|Source|
+|Plugin/Mods Name|Creator|Source|
 |:-:|:-:|:-:|
 |24HourClock|Zduniusz|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Zduniusz/24HourClock)|
 |AllColorSuits|Konahaipper|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Konahaipper/AllColorSuits)|

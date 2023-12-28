@@ -34,6 +34,7 @@ English
 |NotAtomicBomb-TerminalApi|1.4.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi)|
 |OrtonLongGaming-FreddyBracken|1.0.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/OrtonLongGaming/FreddyBracken)|
 |Pitzuna-Pitzunas_Scrap|1.0.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Pitzuna/Pitzunas_Scrap)|
+|Pooble-LCBetterSaves|1.6.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves)|
 |Rune580-LethalCompany_InputUtils|0.4.3|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils)|
 |Sculas-BrutalCompanyAdditions|2.1.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Sculas/BrutalCompanyAdditions)|
 |Silvision-PaintColorSwitch|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Silvision/PaintColorSwitch)|

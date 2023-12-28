@@ -41,6 +41,7 @@ English
 |BrutalCompanyAdditions|Sculas|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Sculas/BrutalCompanyAdditions)|
 |Brutal_Company_Plus|Nips|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Nips/Brutal_Company_Plus)|
 |CompatibilityChecker|Ryokune|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Ryokune/CompatibilityChecker)|
+|Corporate_Restructure|Jamil|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Jamil/Corporate_Restructure)|
 |DataCompany|Chdata|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Chdata/DataCompany)|
 |DinkleSuits|Deviants|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Deviants/DinkleSuits)|
 |DiscountAlert|akechii|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/akechii/DiscountAlert)|
@@ -55,6 +56,7 @@ English
 |FreddyBracken|OrtonLongGaming|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/OrtonLongGaming/FreddyBracken)|
 |Frostys_Fastest_Company|frostfv|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/frostfv/Frostys_Fastest_Company)|
 |GojoPaintingPosters|GojoLover14|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/GojoLover14/GojoPaintingPosters)|
+|Happy_Hats|fizzysaur|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/fizzysaur/Happy_Hats)|
 |HDLethalCompany|Sligili|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany)|
 |HealthStation|Thorlar|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Thorlar/HealthStation)|
 |HideChat|Monkeytype|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Monkeytype/HideChat)|
@@ -81,7 +83,9 @@ English
 |LethalPosters|femboytv|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/femboytv/LethalPosters)|
 |LethalRebinding|Bobbie|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)|
 |LethalRebinding|Exoni|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding)|
+|Lethal_Vanoss_Crew|More_random|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/More_random/Lethal_Vanoss_Crew)|
 |LetMeLookDown|FlipMods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown)|
+|LightControls|Cobster|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Cobster/LightControls)|
 |LightSwitchNoMore|Astro|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Astro/LightSwitchNoMore)|
 |loafpack|loaf|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/loaf/loafpack)|
 |MaidOutfitFix|Diversion|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Diversion/MaidOutfitFix)|
@@ -101,7 +105,9 @@ English
 |RemoveCameraFilter|Augur|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Augur/RemoveCameraFilter)|
 |ReservedFlashlightSlot|FlipMods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedFlashlightSlot)|
 |ReservedItemSlotCore|FlipMods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedItemSlotCore)|
+|ReservedSprayPaintSlot|FlipMods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedSprayPaintSlot)|
 |ReservedWalkieSlot|FlipMods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWalkieSlot)|
+|ReservedWeaponSlot|FlipMods|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/FlipMods/ReservedWeaponSlot)|
 |RotateBackwards|Coltrain|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Coltrain/RotateBackwards)|
 |ShipLoot|tinyhoot|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot)|
 |SignalTranslatorDisplay|Dev1A3|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Dev1A3/SignalTranslatorDisplay)|

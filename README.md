@@ -1,7 +1,7 @@
 <h1 align="center"><a alt="Ikon TaswinGang"><img src="https://github.com/KevinTaswin17/TaswinGang/blob/stable/icon.png" width="172"></a><br>TaswinGang<br></h1>
 <div align="center">
 
-A modpack for Lethal Company. Includes 96 most popular mods. Depends on the [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest) modloader.
+A modpack for Lethal Company. Includes 97 most popular mods. Depends on the [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest) modloader.
 
 English
 &nbsp;|&nbsp;
@@ -68,6 +68,7 @@ English
 |Lategame Upgrades|malco|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/malco/Lategame_Upgrades)|
 |LBtoKG|Zduniusz|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Zduniusz/LBtoKG)|
 |LC API|2018|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/2018/LC_API)|
+|LCBetterSaves|Pooble|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves)|
 |LCUltrawide|stefan750|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/stefan750/LCUltrawide)|
 |LC_Symphony|alexanderjoe|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/alexanderjoe/LC_Symphony)|
 |Lethal Company Enhancer|Mom_Llama|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Mom_Llama/Lethal_Company_Enhancer)|

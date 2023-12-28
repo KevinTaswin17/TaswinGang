@@ -205,7 +205,7 @@ English
 > There's a big chance this modpack will no longer compatible with Lethal Company v40.
 
 ### Mods updated during Lethal Company v45
-|Nama Mod|Versi Sebelumnya|Versi Saat Ini|Sumber|
+|Mods Name|Previous Version|Current Version|Source|
 |-|:-:|:-:|:-:|
 |2018-LC_API|2.0.0|2.1.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/2018/LC_API)|
 |anormaltwig-LateCompany|1.0.4|1.0.6|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany)|
@@ -230,7 +230,7 @@ English
 |oknorton-LethalCompanyBetterScaling|1.3.2|1.4.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/oknorton/LethalCompanyBetterScaling)|
 
 ### Mod that got replaced
-|Nama Mod|Versi|Sumber||Nama Mod|Versi|Sumber|
+|Mods Name|Version|Source||Mods Name|Version|Source|
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 |Exoni-LethalRebinding*|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Exoni/LethalRebinding)|→|Bobbie-LethalRebinding|1.0.0|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Bobbie/LethalRebinding)|
 

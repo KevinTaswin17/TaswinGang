@@ -1,7 +1,7 @@
 <h1 align="center"><a alt="Ikon TaswinGang"><img src="https://github.com/KevinTaswin17/TaswinGang/blob/stable/icon.png" width="172"></a><br>TaswinGang<br></h1>
 <div align="center">
 
-A modpack for Lethal Company. Includes 97 most popular mods. Depends on the [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest) modloader.
+A modpack for Lethal Company. Includes 103 most popular mods. Depends on the [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest) modloader.
 
 English
 &nbsp;|&nbsp;

@@ -5,6 +5,20 @@ English
 &nbsp;|&nbsp;
 <a href="https://github.com/KevinTaswin17/TaswinGang/blob/stable/CHANGELOG-id.md">Indonesian</a>
 
+## [2.0.5] - 1/2/2024
+> [!NOTE]
+> This modpack was made during Lethal Company v45.2 (Build 12922815). Verified and tested, runs well as intended in multiplayer sessions.
+
+### Replaced
+|Mods Name|Version|Source||Mods Name|Version|Source|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Sligili-More_Emotes|1.2.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes)|→|KlutzyBubbles-BetterEmotes|1.3.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes)|
+
+### Removed
+|Mods Name|Version|Source|
+|:-:|:-:|:-:|
+|Cobster-LightControls|1.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Cobster/LightControls)|
+
 ## [2.0.4] - 12/28/2023
 > [!NOTE]
 > This modpack was made during Lethal Company v45.2 (Build 12922815). Verified and tested, runs well as intended in multiplayer sessions.

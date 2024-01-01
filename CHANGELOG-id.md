@@ -5,6 +5,20 @@ Semua perubahan pada proyek ini didokumentasikan dalam berkas ini.
 &nbsp;|&nbsp;
 Bahasa Indonesia
 
+## [2.0.5] - 2/1/2024
+> [!NOTE]
+> Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815). Terverfikasi dan teruji berjalan baik dan sebagaimana-mestinya dalam sesi multipemain.
+
+### Digantikan
+|Nama Mod|Versi|Sumber||Nama Mod|Versi|Sumber|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|Sligili-More_Emotes|1.2.2|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes)|→|KlutzyBubbles-BetterEmotes|1.3.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/KlutzyBubbles/BetterEmotes)|
+
+### Dihapus
+|Nama Mod|Version|Source|
+|:-:|:-:|:-:|
+|Cobster-LightControls|1.0.1|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Cobster/LightControls)|
+
 ## [2.0.4] - 28/12/2023
 > [!NOTE]
 > Paket mod ini dibuat saat Lethal Company v45.2 (Build 12922815). Terverfikasi dan teruji berjalan baik dan sebagaimana-mestinya dalam sesi multipemain.

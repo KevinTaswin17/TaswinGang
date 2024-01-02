@@ -1,7 +1,7 @@
 <h1 align="center"><a alt="Ikon TaswinGang"><img src="https://github.com/KevinTaswin17/TaswinGang/blob/stable/icon.png" width="172"></a><br>TaswinGang<br></h1>
 <div align="center">
 
-A modpack for Lethal Company. Includes 103 most popular mods. Depends on the [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest) modloader.
+A modpack for Lethal Company. Includes 102 most popular mods. Depends on the [`BepInEx`](https://github.com/BepInEx/BepInEx/releases/latest) modloader.
 
 English
 &nbsp;|&nbsp;
@@ -27,6 +27,7 @@ English
 |Plugin/Mods Name|Creator|Source|
 |:-:|:-:|:-:|
 |24HourClock|Zduniusz|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Zduniusz/24HourClock)|
+
 |AllColorSuits|Konahaipper|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Konahaipper/AllColorSuits)|
 |AlwaysHearActiveWalkies|Suskitech|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies)|
 |AnnyPlushieScrap|Adesi|[![Thunderstore Favicon](https://thunderstore.io/favicon.ico)](https://thunderstore.io/c/lethal-company/p/Adesi/AnnyPlushieScrap)|
